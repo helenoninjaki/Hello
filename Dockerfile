@@ -9,4 +9,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 EXPOSE 5300
 
-CMD ["python" , "./app.py"]
+CMD ["python" , "./hello.py"]
